@@ -46,7 +46,7 @@
 <h4>THREAT INTEL</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-1583-002-e099b8049ee6" title="Cyberdefenders - MITRE-T1583.002"><strong>MITRE-T1583.002</strong></a></li>
-<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1584-004-5148c28163a" title="Cyberdefenders - MITRE-T1584.004"><strong>MITRE-T1584.004</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1584-004-5148c28163a" title="Cyberdefenders - MITRE-T1584.004"><strong>MITRE-T1584.004</strong></a></li>
 </ul>
 
 <h3>### Medium ###</h3>
