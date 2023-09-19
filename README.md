@@ -39,7 +39,7 @@
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-hooked-a54e15fb72a6"><strong>Hooked</strong></a></li>
 </ul>
 
-<h2>Platform: <a href="https://cyberdefenders.org/blue-team-labs/" title="Blueyard">Blueyard</a> by <a href="https://cyberdefenders.org/" title="CyberDefenders">CyberDefenders</a></h2>
+<h2>Platform: <a href="https://cyberdefenders.org/blueteam-ctf-challenges/" title="Blueyard">Blueyard</a> by <a href="https://cyberdefenders.org/" title="CyberDefenders">CyberDefenders</a></h2>
 
 <h3>### Easy ###</h3>
 
