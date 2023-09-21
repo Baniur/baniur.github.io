@@ -19,6 +19,7 @@
 
 <h4>INCIDENT RESPONSE</h4>
 <ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-bot-85deba9e8af8" title="BTLO - Bot"><strong>Bot</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-total-recall-c02b0885a734" title="BTLO - Total Recall"><strong>Total Recall</strong></a></li>
 </ul>
 
