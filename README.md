@@ -45,6 +45,11 @@
 
 <h3>### Easy ###</h3>
 
+<h4>NETWORK FORENSICS</h4>
+<ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1595-737caa66fb9c" title="Cyberdefenders - MITRE-T1595"><strong>MITRE-T1595</strong></a></li>
+</ul>
+
 <h4>THREAT INTEL</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-1583-002-e099b8049ee6" title="Cyberdefenders - MITRE-T1583.002"><strong>MITRE-T1583.002</strong></a></li>
@@ -55,7 +60,7 @@
 
 <h4>ENDPOINT FORENSICS</h4>
 <ul>
-<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-poor-joe-78d1f568ef5f" title="Cyberdefenders - Eli"><strong>Eli</strong></a></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-eli-481d2021defe" title="Cyberdefenders - Eli"><strong>Eli</strong></a></li>
 </ul>
 
 <h3>### Difficult ###</h3>
