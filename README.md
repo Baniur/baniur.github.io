@@ -26,6 +26,7 @@
 <h4>REVERSE ENGINEERING</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-exceltium-181602184ca4" title="BTLO - Exceltium"><strong>Exceltium</strong></a></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-sharpattack-2b4f7162ff65" title="BTLO - Sharpattack"><strong>Sharpattack</strong></a></li>
 </ul>
 
 <h4>SECURITY OPERATIONS</h4>
