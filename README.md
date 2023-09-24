@@ -1,6 +1,8 @@
 <h1>My write-ups</h1>
 
-<h2>Platform: <a href="https://blueteamlabs.online" title="Blue Team Labs Online">Blue Team Labs Online</a> by <a href="https://www.securityblue.team/" title="Security Blue Team">Security Blue Team</a></h2>
+<img src="https://media4.giphy.com/media/rY93u9tQbybks/giphy.gif" />
+
+<h2>Platform: <a href="https://blueteamlabs.online" title="Blue Team Labs Online">Blue Team Labs Online</a> <img src="https://blueteamlabs.online/images/mainpic.png" width="2%" height="2%" /> by <a href="https://www.securityblue.team/" title="Security Blue Team">Security Blue Team</a> <img src="https://www.securityblue.team/_nuxt/SBT-logo-solid.cadc0fc6.svg" width="3%" height="3%" /></h2>
 
 <h3>### Easy ###</h3>
 
@@ -41,7 +43,7 @@
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-hooked-a54e15fb72a6" title="BTLO - Hooked"><strong>Hooked</strong></a></li>
 </ul>
 
-<h2>Platform: <a href="https://cyberdefenders.org/blueteam-ctf-challenges/" title="Blueyard">Blueyard</a> by <a href="https://cyberdefenders.org/" title="CyberDefenders">CyberDefenders</a></h2>
+<h2>Platform: <a href="https://cyberdefenders.org/blueteam-ctf-challenges/" title="Blueyard">Blueyard</a> by <a href="https://cyberdefenders.org/" title="CyberDefenders">CyberDefenders</a> <img src="https://cyberdefenders.org/static/assets/images/brand/logo/logo-icon.svg" width="2%" height="2%" /> </h2>
 
 <h3>### Easy ###</h3>
 
