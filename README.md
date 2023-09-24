@@ -6,6 +6,11 @@
 
 <h3>### Easy ###</h3>
 
+<h4>INCIDENT RESPONSE</h4>
+<ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-eradication-809c5df070fb" title="BTLO - Eradication"><strong>Eradication</strong></a></li>
+</ul>
+
 <h4>SECURITY OPERATIONS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-soc-alpha-1-cacbdbaa617a" title="BTLO - SOC Alpha 1"><strong>SOC Alpha 1</strong></a></li>
