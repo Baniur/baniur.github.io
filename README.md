@@ -9,6 +9,7 @@
 <h4>INCIDENT RESPONSE</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-eradication-809c5df070fb" title="BTLO - Eradication"><strong>Eradication</strong></a></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-miner-eeb21d74672e" title="BTLO - Miner"><strong>Miner</strong></a></li>
 </ul>
 
 <h4>SECURITY OPERATIONS</h4>
