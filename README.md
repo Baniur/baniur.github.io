@@ -46,6 +46,7 @@
 
 <h4>INCIDENT RESPONSE</h4>
 <ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-ghosted-8e23fc13b418" title="BTLO - Ghosted"><strong>Ghosted</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-hooked-a54e15fb72a6" title="BTLO - Hooked"><strong>Hooked</strong></a></li>
 </ul>
 
