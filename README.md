@@ -44,6 +44,11 @@
 
 <h3>### Hard ###</h3>
 
+<h4>DIGITAL FORENSICS</h4>
+<ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-pretium-v2-bae106dae574" title="BTLO - Ghosted"><strong>Pretium v2</strong></a></li>
+</ul>
+
 <h4>INCIDENT RESPONSE</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-ghosted-8e23fc13b418" title="BTLO - Ghosted"><strong>Ghosted</strong></a></li>
