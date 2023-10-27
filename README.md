@@ -64,6 +64,7 @@
 
 <h4>NETWORK FORENSICS</h4>
 <ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1594-1f1470ad6648" title="Cyberdefenders - MITRE-T1594"><strong>MITRE-T1594</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1595-737caa66fb9c" title="Cyberdefenders - MITRE-T1595"><strong>MITRE-T1595</strong></a></li>
 </ul>
 
