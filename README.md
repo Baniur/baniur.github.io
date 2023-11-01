@@ -64,6 +64,11 @@
 
 <h3>### Easy ###</h3>
 
+<h4>ENDPOINT FORENSICS</h4>
+<ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1598-002-9721d8d026d1" title="Cyberdefenders - MITRE-T1598.002"><strong>MITRE-T1598.002</strong></a></li>
+</ul>
+
 <h4>NETWORK FORENSICS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1594-1f1470ad6648" title="Cyberdefenders - MITRE-T1594"><strong>MITRE-T1594</strong></a></li>
