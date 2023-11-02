@@ -43,7 +43,7 @@
 <h4>SECURITY OPERATIONS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-peak-e0d3e35d8283" title="BTLO - Peak"><strong>Peak</strong></a></li>
-<li><strong>Peak 2</strong></a></li>
+<li><strong>Peak 2</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-soc-alpha-2-f60743a968f8" title="BTLO - SOC Alpha 2"><strong>SOC Alpha 2</strong></a></li>
 </ul>
 
@@ -73,6 +73,11 @@
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1594-1f1470ad6648" title="Cyberdefenders - MITRE-T1594"><strong>MITRE-T1594</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1595-737caa66fb9c" title="Cyberdefenders - MITRE-T1595"><strong>MITRE-T1595</strong></a></li>
+</ul>
+
+<h4>THREAT HUNTING</h4>
+<ul>
+<li>MITRE-T1110.003</li>
 </ul>
 
 <h4>THREAT INTEL</h4>
