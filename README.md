@@ -77,7 +77,7 @@
 
 <h4>THREAT HUNTING</h4>
 <ul>
-<li>MITRE-T1110.003</li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1110-003-fa18ef642cc8" title="Cyberdefenders - MITRE-T1110.003"><strong>MITRE-T1110.003</strong></a></li>
 </ul>
 
 <h4>THREAT INTEL</h4>
@@ -88,12 +88,32 @@
 
 <h3>### Medium ###</h3>
 
+<h4>CLOUD FORENSICS</h4>
+<ul>
+<li><strong>S3CredentialsHunt</strong></li>
+</ul>
+
 <h4>ENDPOINT FORENSICS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-eli-481d2021defe" title="Cyberdefenders - Eli"><strong>Eli</strong></a></li>
 </ul>
 
+<h4>MALWARE ANALYSIS</h4>
+<ul>
+<li><strong>MITRE-T1547.001</strong></li>
+</ul>
+
 <h3>### Difficult ###</h3>
+
+<h4>MALWARE ANALYSIS</h4>
+<ul>
+<li><strong>OceanLotus</strong></li>
+</ul>
+
+<h4>NETWORK FORENSICS</h4>
+<ul>
+<li><strong>ProxyShell</strong></li>
+</ul>
 
 <h4>THREAT HUNTING</h4>
 <ul>
