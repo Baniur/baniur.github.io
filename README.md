@@ -112,7 +112,7 @@
 
 <h4>NETWORK FORENSICS</h4>
 <ul>
-<li><strong>ProxyShell</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-proxyshell-b663b16ea227" title="Cyberdefenders - ProxyShell"><strong>ProxyShell</strong></a></li>
 </ul>
 
 <h4>THREAT HUNTING</h4>
