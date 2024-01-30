@@ -97,7 +97,7 @@
 
 <h4>CLOUD FORENSICS</h4>
 <ul>
-<li><strong>S3CredentialsHunt</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-s3credentialshunt-ec74e93e400c" title="Cyberdefenders - S3CredentialsHunt"><strong>S3CredentialsHunt</strong></a></li>
 </ul>
 
 <h4>ENDPOINT FORENSICS</h4>
