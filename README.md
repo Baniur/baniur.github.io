@@ -111,7 +111,7 @@
 <ul>
 <li><strong>APT35</strong></li>
 <li><strong>MITRE-T1059.007</strong></li>
-<li><strong>MITRE-T1547.001</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1547-e7096364f5bc" title="Cyberdefenders - MITRE-T1547.001"><strong>MITRE-T1547.001</strong></a></li>
 <li><strong>Tele$tealer</strong></li>
 </ul>
 
