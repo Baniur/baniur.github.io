@@ -103,7 +103,7 @@
 <h4>ENDPOINT FORENSICS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-eli-481d2021defe" title="Cyberdefenders - Eli"><strong>Eli</strong></a></li>
-<li><strong>KrakenKeylogger</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-krakenkeylogger-a8a3d4c40941" title="Cyberdefenders - KrakenKeylogger"><strong>KrakenKeylogger</strong></a></li>
 <li><strong>MITRE-T1197</strong></li>
 </ul>
 
