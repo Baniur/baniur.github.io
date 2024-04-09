@@ -16,8 +16,8 @@
 <h4>SECURITY OPERATIONS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-soc-alpha-1-cacbdbaa617a" title="BTLO - SOC Alpha 1"><strong>SOC Alpha 1</strong></a></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-phishy-v1-780a93027976" title="BTLO - Phishy v1"><strong>Phishy (v1)</strong></a></li>
 </ul>
-
 
 <h3>### Medium ###</h3>
 
