@@ -24,6 +24,7 @@
 <h4>DIGITAL FORENSICS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-poor-joe-78d1f568ef5f" title="BTLO - Poor Joe"><strong>Poor Joe</strong></a></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-sticky-situation-f993a89dbd82" title="BTLO - Sticky Situation"><strong>Sticky Situation</strong></a></li>
 </ul>
 
 <h4>INCIDENT RESPONSE</h4>
