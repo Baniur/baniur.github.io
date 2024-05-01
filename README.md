@@ -4,6 +4,7 @@
 <ul>
 <li><a href="https://github.com/Baniur/baniur.github.io/blob/main/BTLO/btlo.md" title="Blue Team Labs Online (BTLO)"><strong>Blue Team Labs Online (BTLO)</strong></a></li>
 <li><a href="https://github.com/Baniur/baniur.github.io/blob/main/Cyberdefenders/cyberdefenders.md" title="Cyberdefenders - writeups"><strong>Cyberdefenders</strong></a></li>
+<li>Hack The Box Sherlocks</li>
 </ul>
 
 <h1>Forensic artifacts (in progress)</h1>
