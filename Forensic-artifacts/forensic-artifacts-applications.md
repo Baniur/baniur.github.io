@@ -9,7 +9,7 @@
 <li><a href="#stickynotes">Sticky Notes</a></li>
 <li><a href="#sublime-text">Sublime Text</a></li>
 <li><a href="#teamviewer">TeamViewer</a></li>
-<li>Microsoft Windows 10 Notifications</li>
+<li><a href="#microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</a></li>
 </ul>
 
 <h2 id="anydesk">AnyDesk</h2>
@@ -43,4 +43,10 @@
 <li>%systemdrive%\Program Files\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</li>
 <li>%systemdrive%\Program Files (x86)\TeamViewer\Connections_incoming.txt</li>
 <li>%systemdrive%\Program Files (x86)\TeamViewer\TeamViewerXX_Logfile.log (XX - version)</li>
+</ul>
+
+<h2 id="microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</h2>
+
+<ul>
+<li>%systemdrive%\Users\USER\AppData\Local\Microsoft\Windows\Notifications\wpndatabase.db</li>
 </ul>
