@@ -7,3 +7,7 @@
 </ul>
 
 <h1>Forensic artifacts (in progress)</h1>
+<ul>
+<li>Applications</li>
+<li>Registry</li>
+</ul>
