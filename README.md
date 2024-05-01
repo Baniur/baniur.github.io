@@ -8,6 +8,6 @@
 
 <h1>Forensic artifacts (in progress)</h1>
 <ul>
-<li>Applications</li>
+<li><a href="https://github.com/Baniur/baniur.github.io/blob/main/Forensic-artifacts/forensic-artifacts-applications.md">Applications</a></li>
 <li>Registry</li>
 </ul>
