@@ -9,11 +9,12 @@
 <li><a href="#stickynotes">Sticky Notes</a></li>
 <li><a href="#sublime-text">Sublime Text</a></li>
 <li><a href="#teamviewer">TeamViewer</a></li>
+<li>Microsoft Windows 10 Notifications</li>
 </ul>
 
 <h2 id="anydesk">AnyDesk</h2>
 
-<li>%systemdrive%\users\USER\AppData\Roaming\AnyDesk\ad.trace</li>
+<li>%systemdrive%\Users\USER\AppData\Roaming\AnyDesk\ad.trace</li>
 
 <h2 id="notepad-plus-plus">Notepad++</h2>
 
