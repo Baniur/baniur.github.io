@@ -12,6 +12,7 @@
 <li><a href="#teamviewer">TeamViewer</a></li>
 <li><a href="#microsoft-windows-10-11-notifications">Microsoft Windows 10/11 Notifications</a></li>
 <li><a href="#microsoft-windows-defender">Microsoft (Windows) Defender</a></li>
+<li>Microsoft Windows 11 Notepad</li>
 </ul>
 
 <h2 id="anydesk">AnyDesk</h2>
