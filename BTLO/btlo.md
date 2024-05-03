@@ -49,6 +49,7 @@
 <h4>DIGITAL FORENSICS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-pretium-v2-bae106dae574" title="BTLO - Ghosted"><strong>Pretium v2</strong></a></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-the-key-e5f4d68c72cf" title="BTLO - The Key"><strong>The Key</strong></a></li>
 </ul>
 
 <h4>INCIDENT RESPONSE</h4>
