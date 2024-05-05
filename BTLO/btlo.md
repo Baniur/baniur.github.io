@@ -12,6 +12,7 @@
 <h4>SECURITY OPERATIONS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-soc-alpha-1-cacbdbaa617a" title="BTLO - SOC Alpha 1"><strong>SOC Alpha 1</strong></a></li>
+<li><strong>Defaced</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-phishy-v1-780a93027976" title="BTLO - Phishy v1"><strong>Phishy (v1)</strong></a></li>
 </ul>
 
@@ -27,6 +28,7 @@
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-bot-85deba9e8af8" title="BTLO - Bot"><strong>Bot</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-obfuscated-48fc1f854a1d" title="BTLO - Obfuscated"><strong>Obfuscated</strong></a></li>
+<li><strong>Pretium</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-the-last-jedi-7cc47448ac8b" title="BTLO - The Last Jedi"><strong>The Last Jedi</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-total-recall-c02b0885a734" title="BTLO - Total Recall"><strong>Total Recall</strong></a></li>
 </ul>
@@ -34,6 +36,7 @@
 <h4>REVERSE ENGINEERING</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-exceltium-181602184ca4" title="BTLO - Exceltium"><strong>Exceltium</strong></a></li>
+<li><strong>LOL</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-sharpattack-2b4f7162ff65" title="BTLO - Sharpattack"><strong>Sharpattack</strong></a></li>
 </ul>
 
@@ -48,7 +51,8 @@
 
 <h4>DIGITAL FORENSICS</h4>
 <ul>
-<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-pretium-v2-bae106dae574" title="BTLO - Ghosted"><strong>Pretium v2</strong></a></li>
+<li><strong>Bad Logic</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-pretium-v2-bae106dae574" title="BTLO - Pretium v2"><strong>Pretium v2</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-the-key-e5f4d68c72cf" title="BTLO - The Key"><strong>The Key</strong></a></li>
 </ul>
 
